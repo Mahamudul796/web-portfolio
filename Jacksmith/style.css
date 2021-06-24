@@ -1,0 +1,119 @@
+body{
+    margin: 0 auto;
+    
+}
+
+.header{
+    background-image: url("images/header-bg-real.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.Biography{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.Span{
+    color: #EC4C7A;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    padding: 2%;
+    margin-left: 4%;
+    margin-top: 50px;
+
+}
+
+.half-width img{
+    width:40%
+}
+
+.button{
+    background-color: #EC4C7A;
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+.button{
+    background-color: #EC4C7A;
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+#margin{
+    margin-top: 20px;
+} 
+section{
+    height: 500px;
+}
+
+.work{
+    padding: 5%;
+}
+
+.workbg{
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.work10{ 
+    float:left;
+    margin-right: 2%;
+    margin-left: 3%;
+
+}
+
+.work2{
+    margin-right: 1%;
+    padding: 1%;
+}
+.work img{
+    width:30%;
+
+}
+
+.center{
+    text-align: center;
+    padding: 0px;
+}
+.footer-area{
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 80%;
+    margin-top: 15%;
+    padding: 10%;
+    margin-bottom: -50px;
+}
+.footer{
+    margin-bottom: 50px;
+}
+
+.top{
+    margin-top: 100px;
+}
+.halkacolor{
+    color: #A9A9A9 ;
+    margin-top: -20px;
+}
+
+.last-part{
+    width: 440px;
+    height: 100px;
+    background-color: #EC4C7A;
+    padding: 1%;
+    border-radius: 3%;
+    color: ivory;
+    margin-left: 525px;
+
+}
+footer{
+    margin-top: 150px;
+    text-align: center;
+    color: #CACACA;
+}
